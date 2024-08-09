@@ -85,7 +85,7 @@ st.title("DDos Detection System")
 
 st.markdown("""
 ### About
-Welcome to the Network Traffic Classifier! This app predicts whether network traffic is 'BENIGN' or 'DDos' based on user inputs. 
+Welcome to the DDoS Detection System! This app predicts whether network traffic is 'BENIGN' or 'DDos' based on user inputs. 
 
 **Key Features:**
 - **Interactive Analysis**: Enter your network traffic data and get immediate predictions.
@@ -176,7 +176,7 @@ if st.sidebar.checkbox("Show Sample Data"):
 # Educational Content
 st.markdown("""
 ### Educational Content
-**Network Traffic Analysis:**
+**DDoS Detection:**
 Network traffic can reveal a lot about the nature of activities occurring on a network. Identifying abnormal patterns, such as 'DDos' attacks, helps in securing networks and preventing disruptions.
 
 **Key Terms:**
